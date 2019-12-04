@@ -1,3 +1,8 @@
+/*
+ * 日別訪問者数の最大平均区間 (paizaランク B 相当)
+ * https://paiza.jp/works/mondai/skillcheck_archive/max_range?language_uid=c&t=7a17d7e8577b786bc0e0aa8fa566e3cc
+ * レベルアップ問題集のため解放を提示しても問題ない
+*/
 #include <stdio.h>
 
 //main function
